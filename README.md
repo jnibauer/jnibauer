@@ -1,7 +1,5 @@
 ## Hi 👋 I'm Jake
 ### I am a final year PhD candidate at Princeton University in astrophysical sciences 
-<!--
-**jnibauer/jnibauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 🔭 I am currently working on modeling stellar streams to map and measure dark matter in galaxies.
 website: http://jnibauer.github.io
